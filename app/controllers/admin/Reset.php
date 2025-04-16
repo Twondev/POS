@@ -88,7 +88,7 @@ class Reset extends CI_Controller
             echo '<!DOCTYPE html>
             <html>
                 <head>
-                    <title>Stock Manager Advance hhh</title>
+                    <title>Stock Manager Advance</title>
                     <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
                     <style>
                         html, body { height: 100%; }

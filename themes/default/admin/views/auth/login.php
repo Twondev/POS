@@ -34,7 +34,7 @@ foreach ($bgs as &$bg) {
             justify-content: center;
             background-size: cover !important;
             background-position: center !important;
-            background-image: url("<?= $bgs[mt_rand(0, count($bgs) - 1)] ?>") !important;
+            background-image: url("https://res.cloudinary.com/drqovuycp/image/upload/v1744791707/chinese-businesswoman-in-a-warehouse-with-a-walkie-2024-10-11-17-03-46-utc_1_ptczbr.jpg") !important;
         }
         .contents {
             margin: 16px;
